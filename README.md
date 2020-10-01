@@ -1,4 +1,4 @@
-# CraftableHorseGear
+# CraftableHorseGearDatapack
 ### Minecraft datapack that allows you to craft horse armor and saddles.
 
 #### To use:
